@@ -33,7 +33,6 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Using css with react was very difficult
 
 ## License
